@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<style>
+
+    .redp { color: crimson}
+    .bluep { color: blue}
+    .borderblack {border: black 2px dashed}
+
+
+
+
+</style>
+<p class="bluep"> HELLO </p>
+
+<br>
+<p class="redp borderblack"> love </p>
+<!--בשביל לכתוב הערה כותבים את ההערה שרוצים ואז CTRL/ זה עובד רק שאת על אנגלית-->
+<!--<img src="download.jfif" height="383" width="624">-->
+<!-- <img src="images.jfif"  height="683" width="1024">-->
+
+<div></div>
+
+</body>
+</html>
